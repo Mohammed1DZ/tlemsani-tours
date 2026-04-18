@@ -264,29 +264,29 @@ function App() {
             <div className="footer-contact">
               <h5 style={{color: 'white', fontSize: '1.125rem', marginBottom: '1.5rem'}}>Contactez-nous</h5>
               
-              <div className="footer-contact-item">
+              <a href="https://www.google.com/maps/place/Tlemsani+tours+agence+de+tourisme+%26+de+voyages/@35.7034935,-0.6380727,17z/data=!3m1!4b1!4m6!3m5!1s0xd7e89fa7bca3cd9:0x7a1e266cdc31142e!8m2!3d35.7034935!4d-0.6380727!16s%2Fg%2F11vx5psqfp?authuser=0&hl=fr&entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D" target="_blank" rel="noopener noreferrer" className="footer-contact-item">
                 <MapPin className="footer-contact-icon" />
                 <div>
                   <strong>Adresse</strong>
-                  <p>Oran, Algérie</p>
+                  <p>05 Rue jean marie laribere, Oran 31000</p>
                 </div>
-              </div>
+              </a>
               
-              <div className="footer-contact-item">
+              <a href="tel:+213661155371" className="footer-contact-item">
                 <PhoneCall className="footer-contact-icon" />
                 <div>
                   <strong>Téléphone</strong>
                   <p>0661 15 53 71</p>
                 </div>
-              </div>
+              </a>
               
-              <div className="footer-contact-item">
+              <a href="mailto:contact@tlemsanitours.dz" className="footer-contact-item">
                 <Mail className="footer-contact-icon" />
                 <div>
                   <strong>Email</strong>
                   <p>contact@tlemsanitours.dz</p>
                 </div>
-              </div>
+              </a>
             </div>
           </div>
           
