@@ -46,7 +46,7 @@ const reviews = [
 ];
 
 const destinations = [
-  { id: 1, title: 'Omra & Hajj', price: 'À partir de 180,000 DZD', image: 'https://images.unsplash.com/photo-1591465223011-aa9b09cdfc63?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80' },
+  { id: 1, title: 'Omra & Hajj', price: 'À partir de 180,000 DZD', image: '/omra-hajj.png' },
   { id: 2, title: 'Dubaï Magique', price: 'À partir de 155,000 DZD', image: 'https://images.unsplash.com/photo-1512453979798-5ea266f8880c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80' },
   { id: 3, title: 'Istanbul Découverte', price: 'À partir de 95,000 DZD', image: 'https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80' },
 ];
